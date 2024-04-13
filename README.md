@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lochlan-mcneill
+- 👀 I’m interested in JS, CSS and HTML.
+- 🌱 I’m currently learning JS, CSS and HTML.
+- 💞️ I’m looking to collaborate on Nothing at the moment.
+- 📫 How to reach me N/A
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: This is a read me file!
