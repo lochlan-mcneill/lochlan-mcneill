@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Nothing at the moment.
 - 📫 How to reach me N/A
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: This is a read me file!
+- ⚡ Fun fact: This is a plain text file!
